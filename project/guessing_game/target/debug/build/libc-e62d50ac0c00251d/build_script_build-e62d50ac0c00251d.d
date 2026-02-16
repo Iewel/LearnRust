@@ -1,0 +1,5 @@
+/home/wlw/demos/rust/project/guessing_game/target/debug/build/libc-e62d50ac0c00251d/build_script_build-e62d50ac0c00251d.d: /home/wlw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.182/build.rs
+
+/home/wlw/demos/rust/project/guessing_game/target/debug/build/libc-e62d50ac0c00251d/build_script_build-e62d50ac0c00251d: /home/wlw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.182/build.rs
+
+/home/wlw/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/libc-0.2.182/build.rs:
